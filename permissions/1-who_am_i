@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /root/holbertonschool-shell/permissions
+ls -l 1-who_am_i
