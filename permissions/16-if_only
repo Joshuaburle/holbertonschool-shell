@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from=vincent guillaume */root/holbertonschool-shell/permissions/hello
+chown --recursive-- --from=vincent guillaume *
