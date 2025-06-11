@@ -1,2 +1,2 @@
 #!/bin/bash
-for f in ./iacta; do head -n 3 "$f" | tail -n 1; done
+head -n 3 ./iacta | tail -n 1
