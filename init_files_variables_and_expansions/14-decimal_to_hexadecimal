@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%x.f\n" | $((10#$DECIMAL))
+printf "%.2x#10" $DECIMAL
