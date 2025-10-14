@@ -1,2 +1,2 @@
 #!/bin/bash
-chrgp 010 hello
+chmod 754 hello
